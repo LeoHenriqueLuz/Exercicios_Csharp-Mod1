@@ -1,0 +1,16 @@
+C:\Projects\CursoCSharp\projeto-modulo1\Leo_Calc\bin\Debug\net5.0\Leo_Calc.exe
+C:\Projects\CursoCSharp\projeto-modulo1\Leo_Calc\bin\Debug\net5.0\Leo_Calc.deps.json
+C:\Projects\CursoCSharp\projeto-modulo1\Leo_Calc\bin\Debug\net5.0\Leo_Calc.runtimeconfig.json
+C:\Projects\CursoCSharp\projeto-modulo1\Leo_Calc\bin\Debug\net5.0\Leo_Calc.runtimeconfig.dev.json
+C:\Projects\CursoCSharp\projeto-modulo1\Leo_Calc\bin\Debug\net5.0\Leo_Calc.dll
+C:\Projects\CursoCSharp\projeto-modulo1\Leo_Calc\bin\Debug\net5.0\ref\Leo_Calc.dll
+C:\Projects\CursoCSharp\projeto-modulo1\Leo_Calc\bin\Debug\net5.0\Leo_Calc.pdb
+C:\Projects\CursoCSharp\projeto-modulo1\Leo_Calc\obj\Debug\net5.0\Leo_Calc.csproj.AssemblyReference.cache
+C:\Projects\CursoCSharp\projeto-modulo1\Leo_Calc\obj\Debug\net5.0\Leo_Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CursoCSharp\projeto-modulo1\Leo_Calc\obj\Debug\net5.0\Leo_Calc.AssemblyInfoInputs.cache
+C:\Projects\CursoCSharp\projeto-modulo1\Leo_Calc\obj\Debug\net5.0\Leo_Calc.AssemblyInfo.cs
+C:\Projects\CursoCSharp\projeto-modulo1\Leo_Calc\obj\Debug\net5.0\Leo_Calc.csproj.CoreCompileInputs.cache
+C:\Projects\CursoCSharp\projeto-modulo1\Leo_Calc\obj\Debug\net5.0\Leo_Calc.dll
+C:\Projects\CursoCSharp\projeto-modulo1\Leo_Calc\obj\Debug\net5.0\ref\Leo_Calc.dll
+C:\Projects\CursoCSharp\projeto-modulo1\Leo_Calc\obj\Debug\net5.0\Leo_Calc.pdb
+C:\Projects\CursoCSharp\projeto-modulo1\Leo_Calc\obj\Debug\net5.0\Leo_Calc.genruntimeconfig.cache

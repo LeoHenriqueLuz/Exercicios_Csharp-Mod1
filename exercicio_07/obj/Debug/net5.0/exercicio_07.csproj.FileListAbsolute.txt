@@ -1,0 +1,16 @@
+C:\Projects\CursoCSharp\exercicio_07\bin\Debug\net5.0\exercicio_07.exe
+C:\Projects\CursoCSharp\exercicio_07\bin\Debug\net5.0\exercicio_07.deps.json
+C:\Projects\CursoCSharp\exercicio_07\bin\Debug\net5.0\exercicio_07.runtimeconfig.json
+C:\Projects\CursoCSharp\exercicio_07\bin\Debug\net5.0\exercicio_07.runtimeconfig.dev.json
+C:\Projects\CursoCSharp\exercicio_07\bin\Debug\net5.0\exercicio_07.dll
+C:\Projects\CursoCSharp\exercicio_07\bin\Debug\net5.0\ref\exercicio_07.dll
+C:\Projects\CursoCSharp\exercicio_07\bin\Debug\net5.0\exercicio_07.pdb
+C:\Projects\CursoCSharp\exercicio_07\obj\Debug\net5.0\exercicio_07.csproj.AssemblyReference.cache
+C:\Projects\CursoCSharp\exercicio_07\obj\Debug\net5.0\exercicio_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CursoCSharp\exercicio_07\obj\Debug\net5.0\exercicio_07.AssemblyInfoInputs.cache
+C:\Projects\CursoCSharp\exercicio_07\obj\Debug\net5.0\exercicio_07.AssemblyInfo.cs
+C:\Projects\CursoCSharp\exercicio_07\obj\Debug\net5.0\exercicio_07.csproj.CoreCompileInputs.cache
+C:\Projects\CursoCSharp\exercicio_07\obj\Debug\net5.0\exercicio_07.dll
+C:\Projects\CursoCSharp\exercicio_07\obj\Debug\net5.0\ref\exercicio_07.dll
+C:\Projects\CursoCSharp\exercicio_07\obj\Debug\net5.0\exercicio_07.pdb
+C:\Projects\CursoCSharp\exercicio_07\obj\Debug\net5.0\exercicio_07.genruntimeconfig.cache

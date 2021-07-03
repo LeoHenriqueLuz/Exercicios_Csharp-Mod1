@@ -1,0 +1,16 @@
+C:\Projects\exercicios_Csharp\bin\Debug\net5.0\exercicios_Csharp.exe
+C:\Projects\exercicios_Csharp\bin\Debug\net5.0\exercicios_Csharp.deps.json
+C:\Projects\exercicios_Csharp\bin\Debug\net5.0\exercicios_Csharp.runtimeconfig.json
+C:\Projects\exercicios_Csharp\bin\Debug\net5.0\exercicios_Csharp.runtimeconfig.dev.json
+C:\Projects\exercicios_Csharp\bin\Debug\net5.0\exercicios_Csharp.dll
+C:\Projects\exercicios_Csharp\bin\Debug\net5.0\ref\exercicios_Csharp.dll
+C:\Projects\exercicios_Csharp\bin\Debug\net5.0\exercicios_Csharp.pdb
+C:\Projects\exercicios_Csharp\obj\Debug\net5.0\exercicios_Csharp.csproj.AssemblyReference.cache
+C:\Projects\exercicios_Csharp\obj\Debug\net5.0\exercicios_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\exercicios_Csharp\obj\Debug\net5.0\exercicios_Csharp.AssemblyInfoInputs.cache
+C:\Projects\exercicios_Csharp\obj\Debug\net5.0\exercicios_Csharp.AssemblyInfo.cs
+C:\Projects\exercicios_Csharp\obj\Debug\net5.0\exercicios_Csharp.csproj.CoreCompileInputs.cache
+C:\Projects\exercicios_Csharp\obj\Debug\net5.0\exercicios_Csharp.dll
+C:\Projects\exercicios_Csharp\obj\Debug\net5.0\ref\exercicios_Csharp.dll
+C:\Projects\exercicios_Csharp\obj\Debug\net5.0\exercicios_Csharp.pdb
+C:\Projects\exercicios_Csharp\obj\Debug\net5.0\exercicios_Csharp.genruntimeconfig.cache

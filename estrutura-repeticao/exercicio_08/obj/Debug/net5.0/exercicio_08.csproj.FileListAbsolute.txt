@@ -1,0 +1,16 @@
+C:\Projects\CursoCSharp\estrutura-repeticao\exercicio_08\bin\Debug\net5.0\exercicio_08.exe
+C:\Projects\CursoCSharp\estrutura-repeticao\exercicio_08\bin\Debug\net5.0\exercicio_08.deps.json
+C:\Projects\CursoCSharp\estrutura-repeticao\exercicio_08\bin\Debug\net5.0\exercicio_08.runtimeconfig.json
+C:\Projects\CursoCSharp\estrutura-repeticao\exercicio_08\bin\Debug\net5.0\exercicio_08.runtimeconfig.dev.json
+C:\Projects\CursoCSharp\estrutura-repeticao\exercicio_08\bin\Debug\net5.0\exercicio_08.dll
+C:\Projects\CursoCSharp\estrutura-repeticao\exercicio_08\bin\Debug\net5.0\ref\exercicio_08.dll
+C:\Projects\CursoCSharp\estrutura-repeticao\exercicio_08\bin\Debug\net5.0\exercicio_08.pdb
+C:\Projects\CursoCSharp\estrutura-repeticao\exercicio_08\obj\Debug\net5.0\exercicio_08.csproj.AssemblyReference.cache
+C:\Projects\CursoCSharp\estrutura-repeticao\exercicio_08\obj\Debug\net5.0\exercicio_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CursoCSharp\estrutura-repeticao\exercicio_08\obj\Debug\net5.0\exercicio_08.AssemblyInfoInputs.cache
+C:\Projects\CursoCSharp\estrutura-repeticao\exercicio_08\obj\Debug\net5.0\exercicio_08.AssemblyInfo.cs
+C:\Projects\CursoCSharp\estrutura-repeticao\exercicio_08\obj\Debug\net5.0\exercicio_08.csproj.CoreCompileInputs.cache
+C:\Projects\CursoCSharp\estrutura-repeticao\exercicio_08\obj\Debug\net5.0\exercicio_08.dll
+C:\Projects\CursoCSharp\estrutura-repeticao\exercicio_08\obj\Debug\net5.0\ref\exercicio_08.dll
+C:\Projects\CursoCSharp\estrutura-repeticao\exercicio_08\obj\Debug\net5.0\exercicio_08.pdb
+C:\Projects\CursoCSharp\estrutura-repeticao\exercicio_08\obj\Debug\net5.0\exercicio_08.genruntimeconfig.cache

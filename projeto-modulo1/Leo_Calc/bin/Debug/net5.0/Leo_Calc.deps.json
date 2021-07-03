@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Leo_Calc/1.0.0": {
+        "runtime": {
+          "Leo_Calc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Leo_Calc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
